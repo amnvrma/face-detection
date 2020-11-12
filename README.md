@@ -1,3 +1,3 @@
 # face-detection
 # How To Use:
-- python face_reco.py PATH\OF\PHOTOGRAPH
+- python face_detector.py PATH\OF\PHOTOGRAPH
